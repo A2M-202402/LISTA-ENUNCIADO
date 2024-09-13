@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="98.854515mm"
+   height="71.926193mm"
+   viewBox="0 0 98.854515 71.926193"
+   version="1.1"
+   id="svg5"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible"
+       id="RoundedArrow"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       markerWidth="6.1347523"
+       markerHeight="5.9304953"
+       viewBox="0 0 6.1347524 5.9304951"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path1367" />
+    </marker>
+  </defs>
+  <rect
+     style="fill:#ffffff;stroke:#ffffff;stroke-width:0.264583px;-inkscape-stroke:none;paint-order:stroke fill markers;stop-color:#000000"
+     id="rect343"
+     width="98.854507"
+     height="71.926186"
+     x="0"
+     y="0" />
+  <g
+     id="layer1"
+     transform="translate(-16.567531,-42.045685)">
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;line-height:1.25;font-family:sans-serif;word-spacing:0px;stroke-width:0.264583"
+       x="26.176289"
+       y="50.568596"
+       id="text236"><tspan
+         id="tspan234"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.264583"
+         x="26.176289"
+         y="50.568596">STACK</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;line-height:1.25;font-family:sans-serif;word-spacing:0px;stroke-width:0.264583"
+       x="66.10199"
+       y="50.568596"
+       id="text240"><tspan
+         id="tspan238"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.264583"
+         x="66.10199"
+         y="50.568596">HEAP</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 57.582616,42.045685 V 113.97188"
+       id="path463" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 16.567531,52.681995 H 114.93037"
+       id="path465" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.20249px;line-height:1.25;font-family:sans-serif;word-spacing:0px;stroke-width:0.264583"
+       x="36.775162"
+       y="60.695366"
+       id="text469"><tspan
+         id="tspan467"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Fira Mono';-inkscape-font-specification:'Fira Mono';text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="36.775162"
+         y="60.695366">vector_original</tspan></text>
+    <g
+       id="g680"
+       transform="translate(-70.876367,-81.607984)">
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.5;-inkscape-stroke:none;paint-order:stroke fill markers;stop-color:#000000"
+         id="rect570"
+         width="7.7611642"
+         height="7.7611642"
+         x="101.11942"
+         y="144.61942" />
+      <circle
+         style="fill:#000000;stroke:#000000;stroke-width:0.499999;-inkscape-stroke:none;paint-order:stroke fill markers;stop-color:#000000"
+         id="path676"
+         cx="105"
+         cy="148.5"
+         r="0.76674467" />
+    </g>
+    <g
+       id="g3385">
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.5;-inkscape-stroke:none;paint-order:stroke fill markers;stop-color:#000000"
+         id="rect570-9"
+         width="7.7611642"
+         height="7.7611642"
+         x="70.192711"
+         y="63.419624" />
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.5;-inkscape-stroke:none;paint-order:stroke fill markers;stop-color:#000000"
+         id="rect714"
+         width="7.7611642"
+         height="7.7611642"
+         x="77.953873"
+         y="63.419624" />
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.5;-inkscape-stroke:none;paint-order:stroke fill markers;stop-color:#000000"
+         id="rect716"
+         width="7.7611642"
+         height="7.7611642"
+         x="85.715034"
+         y="63.419624" />
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.5;-inkscape-stroke:none;paint-order:stroke fill markers;stop-color:#000000"
+         id="rect718"
+         width="7.7611642"
+         height="7.7611642"
+         x="93.476196"
+         y="63.419624" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:4.20249px;line-height:1.25;font-family:sans-serif;word-spacing:0px;stroke-width:0.264583"
+       x="32.86079"
+       y="79.642067"
+       id="text760"><tspan
+         id="tspan758"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Fira Mono';-inkscape-font-specification:'Fira Mono';stroke-width:0.264583"
+         x="32.86079"
+         y="79.642067">n</tspan></text>
+    <g
+       id="g810"
+       transform="translate(0,-0.71827504)">
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.5;-inkscape-stroke:none;paint-order:stroke fill markers;stop-color:#000000"
+         id="rect570-9-2"
+         width="7.7611642"
+         height="7.7611642"
+         x="30.243055"
+         y="82.011879" />
+      <text
+         xml:space="preserve"
+         style="font-size:7.01981px;line-height:1.25;font-family:sans-serif;word-spacing:0px;stroke-width:0.264583"
+         x="34.151913"
+         y="88.349396"
+         id="text764"><tspan
+           id="tspan762"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Fira Mono';-inkscape-font-specification:'Fira Mono';text-align:center;text-anchor:middle;stroke-width:0.264583"
+           x="34.151913"
+           y="88.349396">4</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:4.20249px;line-height:1.25;font-family:sans-serif;word-spacing:0px;stroke-width:0.264583"
+       x="34.747402"
+       y="98.070724"
+       id="text885"><tspan
+         id="tspan883"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Fira Mono';-inkscape-font-specification:'Fira Mono';text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="34.747402"
+         y="98.070724">vector</tspan></text>
+    <g
+       id="g891"
+       transform="translate(-70.876367,-44.232623)">
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.5;-inkscape-stroke:none;paint-order:stroke fill markers;stop-color:#000000"
+         id="rect887"
+         width="7.7611642"
+         height="7.7611642"
+         x="101.11942"
+         y="144.61942" />
+      <circle
+         style="fill:#000000;stroke:#000000;stroke-width:0.499999;-inkscape-stroke:none;paint-order:stroke fill markers;stop-color:#000000"
+         id="circle889"
+         cx="105"
+         cy="148.5"
+         r="0.76674467" />
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.264583, 0.529166;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#RoundedArrow)"
+       d="m 34.370007,66.757655 33.902081,-0.0468"
+       id="path893" />
+    <path
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;marker-end:url(#RoundedArrow);stop-color:#000000;stop-opacity:1"
+       d="M 34.483618,104.40002 C 50.516608,105.14874 58.094323,89.335787 75.21227,88.1123"
+       id="path2464" />
+    <path
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;marker-end:url(#RoundedArrow);stop-color:#000000;stop-opacity:1"
+       d="m 34.318302,67.327075 c 21.699204,4.806089 19.440863,17.01581 40.757697,18.258166"
+       id="path3343" />
+    <g
+       id="g3392">
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.5;-inkscape-stroke:none;paint-order:stroke fill markers;stop-color:#000000"
+         id="rect2452"
+         width="7.7611642"
+         height="7.7611642"
+         x="76.366234"
+         y="83.88237" />
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.5;-inkscape-stroke:none;paint-order:stroke fill markers;stop-color:#000000"
+         id="rect2454"
+         width="7.7611642"
+         height="7.7611642"
+         x="84.127396"
+         y="83.88237" />
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.5;-inkscape-stroke:none;paint-order:stroke fill markers;stop-color:#000000"
+         id="rect2456"
+         width="7.7611642"
+         height="7.7611642"
+         x="91.888557"
+         y="83.88237" />
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.5;-inkscape-stroke:none;paint-order:stroke fill markers;stop-color:#000000"
+         id="rect2458"
+         width="7.7611642"
+         height="7.7611642"
+         x="99.649719"
+         y="83.88237" />
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.5;-inkscape-stroke:none;paint-order:stroke fill markers;stop-color:#000000"
+         id="rect3375"
+         width="7.7611642"
+         height="7.7611642"
+         x="107.41088"
+         y="83.88237" />
+    </g>
+  </g>
+</svg>
