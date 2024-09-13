@@ -12,11 +12,11 @@ Adicionalmente se debe completar la implementación de **tp_lista.c** que debe c
 
 - Recibir un archivo por línea de comandos
 - Parsear pokemones de dicho archivo y almacenarlos en una lista
-- Darle la opcion al usuario de:
-  -  Ingrear el nombre de un pokemon por entrada estandar y buscarlo
+- Darle la opcion al usuario de realizar una de dos operaciones:
+  -  Ingresar el nombre de un pokemon por entrada estandar y buscarlo (mostrar el resultado)
   -  Mostrar todos los pokemon leidos del archivo por pantalla
 - Una vez realizada la operación seleccionada, el programa finaliza
-  
+
 
 ---
 
